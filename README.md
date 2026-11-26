@@ -11,4 +11,4 @@ El proyecto no requiere proceso de compilación. `index.html` es el portafolio y
 - `index.html`: página principal y portafolio profesional.
 - `crm.html`: demo interactiva de CRM.
 - `inventario.html`: demo interactiva de inventario.
-- `cafe.html`, `viajes.html`, `veterinaria.html` y `piel-en-calma.html`: otros proyectos de muestra.
+- `viajes.html` y `veterinaria.html`: otros proyectos de muestra.
